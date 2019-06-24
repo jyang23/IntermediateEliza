@@ -32,8 +32,8 @@ public class Main {
             {
                 input.replace("i","you");
                 input.replace("me","you");
-                input.replace("my","you");
-                input.replace("am","you");
+                input.replace("my","your");
+                input.replace("am","are");
                 System.out.println("Why do you say "+input+"?");
             }
         }
